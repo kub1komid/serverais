@@ -1,2 +1,4 @@
-# serverais
-Server AIS ver 1
+````
+https://github.com/kub1komid/serverais.git
+````
+
